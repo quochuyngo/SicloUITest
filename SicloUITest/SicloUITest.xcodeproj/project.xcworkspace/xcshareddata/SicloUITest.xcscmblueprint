@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "641D5FB530177F749A80A7A6916E334FACE270D1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "641D5FB530177F749A80A7A6916E334FACE270D1" : 9223372036854775807,
+    "48B3FD3282AE6323310766963049AB1E21C64737" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "949717BF-4533-4481-8DE8-81BE9151B1B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "641D5FB530177F749A80A7A6916E334FACE270D1" : "SicloTest\/",
+    "48B3FD3282AE6323310766963049AB1E21C64737" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SicloUITest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SicloUITest\/SicloUITest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/quochuyngo\/TipCalculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "48B3FD3282AE6323310766963049AB1E21C64737"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/quochuyngo\/SicloUITest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "641D5FB530177F749A80A7A6916E334FACE270D1"
+    }
+  ]
+}

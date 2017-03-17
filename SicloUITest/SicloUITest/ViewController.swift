@@ -18,13 +18,22 @@ class ViewController: UIViewController {
         
         tableView.delegate = self
         tableView.dataSource = self
+        searchBar.setBackgroundImage(UIImage(), for: .any, barMetrics: .default)
+        searchBar.backgroundColor = Color.blue
         
         navigationController?.navigationBar.barTintColor = Color.blue
         navigationController?.navigationBar.titleTextAttributes = [NSForegroundColorAttributeName: UIColor.white]
+        
     }
     
     func setup() {
-        
+        for parent in (navigationController?.navigationBar.subviews)! {
+            for childView in parent.subviews {
+                if(childView is UIImageView) {
+                    childView.removeFromSuperview()
+                }
+            }
+        }
     }
 }
 
